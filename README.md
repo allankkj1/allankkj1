@@ -16,7 +16,7 @@
 <!-- Troque a URL abaixo pelo "bichinho" que você quiser (PNG/GIF). Fica no canto direito. -->
 <img align="right" width="180" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="mascote" />
 
-Eu sou **Allan** 👋, um entusiasta de tecnologia apaixonado por **programação**, **design** e **cibersegurança**. Gosto de criar coisas que funcionem bem, **fiquem bonitinhas** 🎨 e sejam seguras 🔐. Minha jornada é movida pela curiosidade e pela vontade de evoluir todo dia.
+Eu sou o **Allan** 👋, um entusiasta de tecnologia apaixonado por **programação**, **design** e **cibersegurança**. Gosto de criar coisas que funcionem bem, **fiquem bonitinhas** 🎨 e sejam seguras 🔐. Minha jornada é movida pela curiosidade e pela vontade de evoluir todo dia.
 
 ## 🌟 Sobre Mim
 
