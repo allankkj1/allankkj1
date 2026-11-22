@@ -45,8 +45,6 @@ Estou sempre buscando novos desafios, laboratórios e projetos onde eu possa apl
 | Curso de TI (presencial) | Escola Técnica Albert Einstein | Em andamento |
 | Bootcamp de Cibersegurança | DIO | Em andamento |
 
-> Quando concluir algo, é só trocar para "Concluído ✅" e adicionar novas linhas.
-
 ## 📚 Estudando agora
 
 - [ ] Redes (TCP/IP, DNS, HTTP)
